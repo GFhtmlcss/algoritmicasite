@@ -1,0 +1,117 @@
+body{
+  font-family: monospace;
+  
+}
+.img {
+    border: 5px solid #69309A;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-decoration: column;
+  justify-content: center;
+	margin-left: 5px;
+}
+.img2 {
+  border: 5px solid #69309A;
+  width: 575px;
+  display: flex;
+  justify-content: center;
+	margin-left: 5px;
+}
+nav {
+  background-color: #C060A1;
+  padding: 10px;
+  height: 70px;
+  border: 7px dashed #613152;
+}
+.logo{
+  display: flex;
+  justify-content: space-around;
+}
+.align {
+    display: flex;
+  justify-content: space-between;
+}
+nav a{
+  text-decoration: none;
+  font-size: 25px;
+  background-color: #C060A1;
+  padding: 50px 20px 10px 20px;
+  border: 1px dotted #C060A1;
+  border-radius: 15px;
+  color: #613152;
+  border-bottom: 7px dashed #613152;
+}
+.startinfo{
+  font-size: 25px;
+  margin: 30px 15px 15px 15px;
+  border-top: 5px solid #620CAC;
+  border-bottom: 5px solid #620CAC;
+  padding: 15px 0 1px 5px;
+  background-color: #A368D5;
+  border-radius: 40px;
+}
+.imgsrc{
+  background-color: white;
+  border: 4px inset grey;
+  padding: 2px;
+}
+b {
+  color: white;
+  background-color: #572781;
+}
+div {
+  background-color: #CBA5EB;
+  border: 5px solid #A56BD7;
+  margin-top: 140px;
+  border-radius: 153px;
+  padding: 15px 0 35px 0;
+}
+span {
+  color: white;
+  background-color: #CBA5EB;
+  border: 5px solid #A56BD7;
+}
+.service {
+background-color: #F0CD86;
+  color: #8C6210;
+  font-size: 25px;
+  padding: 3px;
+  margin-top: 25px;
+  border: 5px dashed #A5884D;
+}
+.servicee {
+ border-bottom: 5px dashed #A5884D;
+}
+.b {
+  background-color: #F0CD86;
+  color: #8B764D;
+}
+.poslimg {
+	border: 5px dashed #4B365D;
+	display: flex;
+	justify-content: space-around;
+	border-radius: 50px;
+	background-color: #5C7B44;
+	padding: 2px;
+}
+footer{
+	background-color: #8349B5;
+	padding: 15px;
+}
+.footer {
+	float: center;
+	text-align: center;
+	font-size: 25px;
+	margin-left: 15px;
+}
+.s {
+	border: 5px dashed #270545;
+	float: center;
+	text-align: center;
+	font-size: 25px;
+	margin: 15px;
+	background-color: #8349B5;
+	padding: 15px;
+	color: white;
+}
